@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Synup Project</string>
+
+
+    <string name="base_url">https://api.myjson.com/bins/</string>
+    <string name="pizza_name">Chicken Pizza</string>
+    <string name="base_price">Base Price: Rs.100</string>
+    <string name="total_amount">Total amount - Rs.100</string>
+    <string name="customize_your_pizza">Customize your pizza</string>
+    <string name="api_error">Something went wrong at your end!</string>
+    <string name="retry">Retry</string>
+    <string name="variant_name">Variant Name</string>
+</resources>
